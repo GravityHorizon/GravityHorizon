@@ -1,9 +1,16 @@
 [
   {
+    "published_at": "2026-11-21T20:27:37.147Z",
+    "title": "C# 15 Unpacked: Popping the Hood on Unions and Finding a Struct",
+    "url": "https://dev.to/georgekobaidze/c-15-unpacked-popping-the-hood-on-unions-and-finding-a-struct-59f0",
+    "reactions": 17,
+    "comments": 2
+  },
+  {
     "published_at": "2026-11-19T21:20:16.643Z",
     "title": "C# 15 Unpacked: Unions Have Arrived. Here's Why They Matter",
     "url": "https://dev.to/georgekobaidze/c-15-unpacked-unions-have-arrived-heres-why-they-matter-48je",
-    "reactions": 36,
+    "reactions": 37,
     "comments": 14
   },
   {
@@ -25,13 +32,6 @@
     "title": "Scared to Publish Your First Technical Article? Don't Be. I'll Be There to Read It",
     "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2",
     "reactions": 178,
-    "comments": 193
-  },
-  {
-    "published_at": "2026-10-26T16:46:19.188Z",
-    "title": "Doors I Walked Through to Reach DEV",
-    "url": "https://dev.to/devengers/doors-i-walked-through-to-reach-dev-5294",
-    "reactions": 158,
-    "comments": 97
+    "comments": 194
   }
 ]
