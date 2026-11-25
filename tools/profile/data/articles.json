@@ -1,10 +1,17 @@
 [
   {
+    "published_at": "2026-11-24T19:01:44.497Z",
+    "title": "C# 15 Unpacked: The Retro New Feature Nobody Expected in 2026",
+    "url": "https://dev.to/georgekobaidze/c-15-unpacked-the-retro-new-feature-nobody-expected-in-2026-38a",
+    "reactions": 30,
+    "comments": 2
+  },
+  {
     "published_at": "2026-11-23T13:24:24.577Z",
     "title": "C# 15 Unpacked: Practical Use Cases for Unions with Real Examples",
     "url": "https://dev.to/georgekobaidze/c-15-unpacked-practical-use-cases-for-unions-with-real-examples-e32",
-    "reactions": 35,
-    "comments": 10
+    "reactions": 39,
+    "comments": 17
   },
   {
     "published_at": "2026-11-21T20:27:37.147Z",
@@ -17,7 +24,7 @@
     "published_at": "2026-11-19T21:20:16.643Z",
     "title": "C# 15 Unpacked: Unions Have Arrived. Here's Why They Matter",
     "url": "https://dev.to/georgekobaidze/c-15-unpacked-unions-have-arrived-heres-why-they-matter-48je",
-    "reactions": 48,
+    "reactions": 51,
     "comments": 20
   },
   {
@@ -26,12 +33,5 @@
     "url": "https://dev.to/georgekobaidze/net-11-unpacked-why-im-recommending-sts-this-time-lnj",
     "reactions": 33,
     "comments": 3
-  },
-  {
-    "published_at": "2026-11-08T18:41:00.138Z",
-    "title": "Engine Off: My 2026 Hackathon Run Is Over",
-    "url": "https://dev.to/georgekobaidze/engines-off-my-2026-hackathon-run-is-over-2ho8",
-    "reactions": 71,
-    "comments": 33
   }
 ]
